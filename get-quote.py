@@ -1,5 +1,6 @@
-import random
+
 def program_python():
+   import random
    print("Keep it logically awesome.")
 
    f = open("quotes.txt")
